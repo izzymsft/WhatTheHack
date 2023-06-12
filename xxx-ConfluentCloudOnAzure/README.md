@@ -37,9 +37,9 @@ These are the 5 challenges for the Hack.
 ## Prerequisites
 
 - Access to an Azure subscription with Owner access
-	- If you don’t have one, Sign Up for Azure [HERE](https://azure.microsoft.com/en-us/free/)
+	- If you don’t have one, Sign Up for Azure [Here](https://azure.microsoft.com/en-us/free/)
 	- Familiarity with [Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/overview#multiple-access-points)
-- Access to [Confluent Cloud on Azure](https://learn.microsoft.com/en-us/azure/partner-solutions/apache-kafka-confluent-cloud/overview), an Azure Native ISV Services
+- Access to [Confluent Cloud on Azure](https://learn.microsoft.com/en-us/azure/partner-solutions/apache-kafka-confluent-cloud/overview), an Azure Native ISV Service
 - An IDE: [Visual Studio Code](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/download/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [IntelliJ](https://www.jetbrains.com/idea/download/)
 
 ## Contributors
