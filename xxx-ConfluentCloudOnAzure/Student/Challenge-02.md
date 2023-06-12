@@ -36,7 +36,6 @@ The second Kafka client should do the following, combining data from the Cosmos 
 To complete this challenge successfully, you should be able to:
 - Verify that the clients are able to write successfully to the topics
 - Verify that the clients are able to read successfully from the topics
-- 
 
 ## Learning Resources
 - [Kafka Consumer](https://docs.confluent.io/platform/current/clients/consumer.html)
