@@ -74,7 +74,7 @@ These are the variables:
 - Template File: ai-apps-wth-resources.json
 - Parameter Files with Values: ai-apps-wth-resources.parameters.json
 
-Please run the validation steps first before you deploy the resources to ensure that the values are valid before your proceed with your deployment.
+Please run the validation steps first before you deploy the resources to ensure that t:q!he values are valid before your proceed with your deployment.
 
 The deployment process takes about 30 minutes to complete.
 
